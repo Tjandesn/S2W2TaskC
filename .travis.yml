@@ -7,4 +7,4 @@ deploy:
   provider: azure_web_apps
   username: Azure_User       
   password: Azure_Pass   
-  site: Azure_Site       
+  site: Azure_Site      

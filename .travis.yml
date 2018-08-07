@@ -1,2 +1,5 @@
 language: csharp
 solution: S2W2TaskC.sln
+install:
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore S2W2TaskC.sln

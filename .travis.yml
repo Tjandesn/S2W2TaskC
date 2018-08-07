@@ -1,1 +1,2 @@
-language: C#
+language: csharp
+solution: S2W2TaskC.sln

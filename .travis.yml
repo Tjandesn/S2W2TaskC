@@ -5,6 +5,6 @@ install:
   - nuget restore S2W2TaskC
 deploy:
   provider: azure_web_apps
-  username: Azure_User       # If AZURE_WA_USERNAME isn't set
-  password: Azure_Pass   # If AZURE_WA_PASSWORD isn't set
-  site: Azure_Site       # If AZURE_WA_SITE isn't set
+  username: Azure_User       
+  password: Azure_Pass   
+  site: Azure_Site       
